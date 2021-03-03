@@ -6,7 +6,7 @@ I'm Max, and I am a senior software engineer. If you need help with .NET, feel f
 - I'm currently learning UI/UX design
 - I know .NET, Angular and write posts to my blog
 
-Here is way how to contact me:
+HWays how you could contact me:
 
 - My [blog](https://maximgorbatyuk.github.io/blog/)
 - [Telegram](https://t.me/maximgorbatyuk)
