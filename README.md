@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**maximgorbatyuk/maximgorbatyuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Max, and I am a senior software engineer. If you need help with .NET, feel free to ask me.
 
-Here are some ideas to get you started:
+- I'm currently a Team lead at Petrel AI
+- I'm currently learning UI/UX design
+- I know .NET, Angular and write posts to my blog
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here is way how to contact me:
+
+- My [blog](https://maximgorbatyuk.github.io/blog/)
+- [Telegram](https://t.me/maximgorbatyuk)
+- [CV.pdf](https://maximgorbatyuk.github.io/pdf/Maxim_gorbatyuk_CV.pdf)
+
+---
+
+## Some stats
+
+![github stats](https://github-readme-stats.vercel.app/api?username=maximgorbatyuk&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maximgorbatyuk)](https://github.com/maximgorbatyuk/)
+
+[![HitCount](http://hits.dwyl.com/maximgorbatyuk/maximgorbatyuk.svg)](http://hits.dwyl.com/maximgorbatyuk/maximgorbatyuk)
