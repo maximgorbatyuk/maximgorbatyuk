@@ -2,7 +2,7 @@
 
 I'm Max, and I am a senior software engineer. If you need help with .NET, feel free to ask me.
 
-- I'm currently a Team lead at Petrel AI
+- I'm currently a lead software developer
 - I'm currently learning UI/UX design
 - I know .NET, Angular and write posts to my blog
 
@@ -13,7 +13,7 @@ HWays how you could contact me:
 - [CV.pdf](https://maximgorbatyuk.github.io/pdf/Maxim_gorbatyuk_CV.pdf)
 - [Twitter](https://twitter.com/GorbatyukMaxim)
 - [Instagram](https://www.instagram.com/maxim.gorbatyuk/)
-- [Gitlab profile](https://gitlab.com/m.gorbatyuk)
+- [Gitlab profile](https://gitlab.com/maximgorbatyuk)
 
 ---
 
