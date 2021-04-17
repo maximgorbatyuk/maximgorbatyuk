@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I'm Max, and I am a senior software engineer. If you need help with .NET, feel free to ask me.
+I'm Max, and I am a software engineer. If you need help with .NET, feel free to ask me.
 
 - I'm currently a lead software developer
 - I'm currently learning UI/UX design
 - I know .NET, Angular and write posts to my blog
 
-HWays how you could contact me:
+Ways how you could contact me:
 
 - My [blog](https://maximgorbatyuk.github.io/blog/)
 - [Telegram](https://t.me/maximgorbatyuk)
