@@ -13,6 +13,7 @@ Ways how you could contact me:
 - [Telegram](https://t.me/maximgorbatyuk)
 - [CV.pdf](https://maximgorbatyuk.github.io/pdf/Maxim_gorbatyuk_CV.pdf)
 - [Instagram](https://www.instagram.com/maxim.gorbatyuk/)
+- Habr.com [profile](https://habr.com/ru/users/maximgorbatyuk/)
 - [Gitlab profile](https://gitlab.com/maximgorbatyuk)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=maximgorbatyuk&show_icons=true)
