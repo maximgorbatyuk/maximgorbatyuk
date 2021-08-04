@@ -22,5 +22,3 @@ Ways how you could contact me:
 ![github stats](https://github-readme-stats.vercel.app/api?username=maximgorbatyuk&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maximgorbatyuk)](https://github.com/maximgorbatyuk/)
-
-[![HitCount](http://hits.dwyl.com/maximgorbatyuk/maximgorbatyuk.svg)](http://hits.dwyl.com/maximgorbatyuk/maximgorbatyuk)
