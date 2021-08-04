@@ -20,5 +20,3 @@ Ways how you could contact me:
 ## Some stats
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=maximgorbatyuk&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maximgorbatyuk)](https://github.com/maximgorbatyuk/)
