@@ -13,6 +13,7 @@ Social media:
 - [Instagram](https://www.instagram.com/maxim.gorbatyuk/)
 - [Habr.com](https://habr.com/ru/users/maximgorbatyuk/) and [career.habr](https://career.habr.com/maximgorbatyuk)
 - [Gitlab profile](https://gitlab.com/maximgorbatyuk)
+- [Nuget packages](https://www.nuget.org/profiles/maximgorbatyuk) created by me
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=maximgorbatyuk&show_icons=true)
 
