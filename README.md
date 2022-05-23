@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Maxim, and I am a lead software engineer. I know .NET, Angular, and how to be a team lead. Also, I write posts to my blog.
+Lead software engineer, maintainer in https://techinterview.space, blogpost writer. I know .NET, Angular, and how to be a team lead.
 
 If you need help, feel free to contact me.
 
