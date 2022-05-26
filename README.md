@@ -8,7 +8,8 @@ Social media:
 
 - My [blog](https://maximgorbatyuk.github.io/blog/)
 - [LinkedIn](https://www.linkedin.com/in/maxim-gorbatyuk-240801bb/)
-- [Telegram](https://t.me/maximgorbatyuk)
+- Contact me on [Telegram](https://t.me/maximgorbatyuk)
+- My [telegram channel](https://t.me/teamleadmaxim)
 - [CV.pdf](https://maximgorbatyuk.github.io/pdf/Maxim_gorbatyuk_CV.pdf)
 - [Instagram](https://www.instagram.com/maxim.gorbatyuk/)
 - [Habr.com](https://habr.com/ru/users/maximgorbatyuk/) and [career.habr](https://career.habr.com/maximgorbatyuk)
