@@ -1,20 +1,27 @@
 ### Hi there 👋
 
-Lead software engineer, maintainer in https://techinterview.space, blogpost writer. I know .NET, Angular, and how to be a team lead.
+Lead software engineer, maintainer of several open-source projects, and blogpost writer. I know .NET, Angular, and how to be a team lead.
 
 If you need help, feel free to contact me.
 
-Social media:
+#### Social media:
 
-- My [blog](https://maximgorbatyuk.github.io/blog/)
+- My [blog](https://mgorbatyuk.dev/blog/)
 - [LinkedIn](https://www.linkedin.com/in/maxim-gorbatyuk-240801bb/)
 - Contact me on [Telegram](https://t.me/maximgorbatyuk)
-- My [telegram channel](https://t.me/teamleadmaxim)
-- [CV.pdf](https://maximgorbatyuk.github.io/pdf/Maxim_gorbatyuk_CV.pdf)
 - [Instagram](https://www.instagram.com/maxim.gorbatyuk/)
-- [Habr.com](https://habr.com/ru/users/maximgorbatyuk/) and [career.habr](https://career.habr.com/maximgorbatyuk)
-- [Gitlab profile](https://gitlab.com/maximgorbatyuk)
+
+#### My projects:
+
+- [techinterview.space](https://techinterview.space/)
+- [repolyze.app](https://repolyze.app/)
+- [claude-community.kz](https://claude-community.kz/)
+- [EV Charge Tracker](https://mgorbatyuk.dev/ev-charging-tracker/)
+- [Journey Wallet](https://mgorbatyuk.dev/journey-wallet/)
+- [Creativity Hub](https://mgorbatyuk.dev/creativity-hub/)
 - [Nuget packages](https://www.nuget.org/profiles/maximgorbatyuk) created by me
+
+#### My stats
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=maximgorbatyuk&show_icons=true)
 
