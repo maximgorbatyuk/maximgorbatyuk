@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![avatar](bar_avatar_micro.jpg)
+
 Lead software engineer, maintainer of several open-source projects, and blogpost writer. I know .NET, Angular, and how to be a team lead.
 
 If you need help, feel free to contact me.
